@@ -1,0 +1,12 @@
+<?xml version="1.0"  encoding="utf-8"?>
+
+<upgrade>
+
+	<version>1.4</version>
+
+	<url>https://server.polytron.co.id/nextcloud/index.php/s/QAfQjk63qWp9LcS/download/DCDE0101.bin</url>
+
+	<log>resolve some bugs</log>
+
+</upgrade>
+
